@@ -1,0 +1,9 @@
+{
+  "name": "PartyRoulette",
+  "short_name": "PartyRoulette",
+  "description": "터치 친화적 복불복 파티 게임",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A"
+}
